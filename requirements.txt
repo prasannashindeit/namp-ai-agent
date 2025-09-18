@@ -1,0 +1,7 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+streamlit==1.37.1
+requests==2.32.3
+google-generativeai==0.7.2
+python-nmap==0.7.1
+python-dotenv==1.0.1
